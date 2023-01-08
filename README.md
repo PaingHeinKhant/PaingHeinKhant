@@ -1,9 +1,11 @@
 ## Hi there 👋, I'm Paing Hein Khant !
 <a href='https://www.linkedin.com/in/paing-hein-khant-a6b49a212/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://www.facebook.com/mpaingh.khant.3'><img align='left' alt="facebook" src="./projects/face.png" height='18px'/></a>
 <a href='https://twitter.com/PaingHeinKhant_'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<a href='https://www.facebook.com/mpaingh.khant.3'><img align='left' alt="facebook" src="./projects/face.png" height='18px'/></a>
 
 
+<br/>
+<br/>
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 I had learned Html,Css, SCSS, Bootstrap ,JavaScript, TailwindCss and other UI libraries for frontend web development from 2019 but now I am learning ReactJs. It has been almost two years since I touched PHP ,Mysql and Laravel Framework and I work a 3 month internship in MMS-IT .Now I am currently working on Freelancer and work in Myanmar.
 <br/>
@@ -31,8 +33,8 @@ I had learned Html,Css, SCSS, Bootstrap ,JavaScript, TailwindCss and other UI li
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 
 <a href="https://php.net/" target="_blank"> <img src="./projects/php.png" align="left" alt="php" height='42px'/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="./projects/my.png" align="left" alt="mysql" height='42px'/> </a>
 <a href="https://laravel.com/" target="_blank"> <img src="./projects/lara.png" align="left" alt="laravel" height='42px'/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="./projects/my.png" align="left" alt="mysql" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
 <br>
